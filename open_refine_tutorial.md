@@ -2,7 +2,7 @@
 * Install 'JAVA RVE'
 * Download & Install 'Open Refine'
 
-### Tutorial
+### General Tutorial
 * __Step 1: Select/Import a Data Source in the following formats:__
   * csv, json, from clipboard, from url, from Google Data
 
