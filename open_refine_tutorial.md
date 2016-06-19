@@ -27,7 +27,7 @@
 * __Step 7: Custom text transforms__
   * example: `if(cells("Is Winner").value, value + " (winner) ", value)`
 
-* __Step 8: Export the data
+* __Step 8: Export the data__
   * TSV, CSV, HTML table, Excel, ODF spreadsheet, etc..
   * For templating, default is json
 
