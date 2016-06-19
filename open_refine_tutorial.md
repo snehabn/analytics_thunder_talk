@@ -22,4 +22,7 @@
   * (Edit column --> Add column based on this column...--> )
 
 ### Helpful Commands
-
+* `value.replace("to_be_replaced", "replaced_with")`
+* `value.startsWith("str")`
+* `value[1,n]` --> character range
+* `value.substring(index_number)`
