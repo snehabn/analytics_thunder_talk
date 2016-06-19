@@ -1,4 +1,4 @@
-### Getting started
+### Getting started with OpenRefine
 * Install 'JAVA RVE'
 * Download & Install 'Open Refine'
 
