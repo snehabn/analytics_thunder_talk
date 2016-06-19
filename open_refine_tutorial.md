@@ -2,7 +2,7 @@
 * Install 'JAVA RVE'
 * Download & Install 'Open Refine'
 
-### General Tutorial
+### Set up Tutorial
 * __Step 1: Select/Import a Data Source in the following formats:__
   * csv, json, from clipboard, from url, from Google Data
 
@@ -30,6 +30,14 @@
 * __Step 8: Export the data__
   * TSV, CSV, HTML table, Excel, ODF spreadsheet, etc..
   * For templating, default is json
+
+## Data Cleanup
+
+* __Clustering and Editing Columns in Bulk__
+  * Clustering --> cluster the groups and mass edit.
+  * (Facet --> Text Facet --> in sidebar, click on 'Cluster')
+  *
+
 
 ### Helpful Commands
 * `value.replace("to_be_replaced", "replaced_with")`
