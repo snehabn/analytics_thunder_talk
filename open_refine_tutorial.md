@@ -34,9 +34,10 @@
 ## Data Cleanup
 
 * __Clustering and Editing Columns in Bulk__
+  * Find groups of different cell values that are alternate representations of the same things
   * Clustering --> cluster the groups and mass edit.
   * (Facet --> Text Facet --> in sidebar, click on 'Cluster')
-  *
+
 
 
 ### Helpful Commands
