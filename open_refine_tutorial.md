@@ -21,6 +21,16 @@
 * __Step 5: Add columns based on existing columns__
   * (Edit column --> Add column based on this column...--> )
 
+* __Step 6: Split columns into several columns__
+  * (Edit Column --> Split into several columns)
+
+* __Step 7: Custom text transforms__
+  * example: `if(cells("Is Winner").value, value + " (winner) ", value)`
+
+* __Step 8: Export the data
+  * TSV, CSV, HTML table, Excel, ODF spreadsheet, etc..
+  * For templating, default is json
+
 ### Helpful Commands
 * `value.replace("to_be_replaced", "replaced_with")`
 * `value.startsWith("str")`
