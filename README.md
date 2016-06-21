@@ -13,4 +13,4 @@ With the growing abundance of data, the importance of analytics is growing. Web 
 
 * Helpful Link & Resources:
  * [Installation](https://github.com/OpenRefine/OpenRefine/releases/tag/2.6-alpha.2)
- * [OpenRefine - Tutorials](www.openrefine.org)
+ * [OpenRefine - Tutorials](http://www.openrefine.org)
