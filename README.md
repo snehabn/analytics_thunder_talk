@@ -10,3 +10,7 @@ With the growing abundance of data, the importance of analytics is growing. Web 
  * [General Refine Expression Language](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
  * [Jython](https://en.wikipedia.org/wiki/Jython)
  * [Clojure](https://en.wikipedia.org/wiki/Clojure)
+
+* Helpful Link & Resources:
+ * [Installation](https://github.com/OpenRefine/OpenRefine/releases/tag/2.6-alpha.2)
+ * [OpenRefine - Tutorials](www.openrefine.org)
